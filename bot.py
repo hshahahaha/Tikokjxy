@@ -27,7 +27,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # توكن البوت
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8198448737:AAHDbpvUi78XD4Xc9N9QwC-slDyyUw9-Jnw")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8525297145:AAEn1YFZVuUHa5vF2Tp__SSFkqeJQYC0A3g")
 
 # تعطيل تحذيرات SSL
 import urllib3
